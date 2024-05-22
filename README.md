@@ -1,4 +1,4 @@
-Boas Vindas ao meu perfil
+**Boas Vindas ao meu perfil**
 
 Meu nome é Thiago Andrade
 • Estou no 2° Ano do Ensino médio
